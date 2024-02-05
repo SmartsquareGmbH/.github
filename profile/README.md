@@ -21,7 +21,7 @@ Wir bringen IoT Business Solutions, Web-Anwendungen und Apps von der ersten Idee
 
 ### Werde Teil des Teams!
 
-:point-right: bewerbung(at)smartsquare.de
+:point_right: bewerbung(at)smartsquare.de
 
 Oder melde dich direkt bei einem von uns:
 * [Daniel Rosowski](https://github.com/orgs/SmartsquareGmbH/people/drosowski) (CTO)
